@@ -3,6 +3,7 @@ This project introduces new and complex submarine environments to test reinforce
 
 This package is part of a larger project that you can find at the following git repository: [SafeRLAUV](https://github.com/dadecampo/SafeRLAUV), here you will find the Unity project where you can create new underwater environments with the components already prepared by the authors.
 
+![](https://i.imgur.com/oY8Z1El.jpg)
 ## Environment Setup
 1. Clone aquatic_navigation_envs repository using Git.
 
