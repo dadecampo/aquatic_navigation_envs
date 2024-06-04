@@ -6,10 +6,12 @@ This package is part of a larger project that you can find at the following git 
 ## Environment Setup
 1. Clone aquatic_navigation_envs repository using Git.
 
-   	- `git clone https://github.com/dadecampo/aquatic_navigation_envs`
+   - `git clone https://github.com/dadecampo/aquatic_navigation_envs`
   
 2. Install requirements.
 
-    - `conda create --name aquatic_navigation python=3.10.12`
+   - `conda create --name aquatic_navigation python=3.10.12`
   	- `conda activate aquatic_navigation`
-   	- `pip3 install -r requirements.txt`
+   - `cd aquatic_navigation_envs`
+   - `pip3 install -r requirements.txt`
+   - `pip3 install -e .`
